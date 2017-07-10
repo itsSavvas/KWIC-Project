@@ -69,6 +69,16 @@ public class KWICProgram {
         }
         return result;
     }
+    
+    
+    public SearchResult searchModelForLemma(String searchTerm) {
+        SearchResult result = new SearchResult();
+        
+        // make lemma out of search term
+        // check the lemma lists in all the sentence objects for a match
+        
+        return result;
+    }
 
 
     public void printSearchResults(String word) {
