@@ -142,7 +142,7 @@ public class KWICProgram {
 
     }
 
-
+// MAIN
     public static void main(String[] args){
 
         String testString = " Tim Day is an Australian student who watches Australian football. " +
